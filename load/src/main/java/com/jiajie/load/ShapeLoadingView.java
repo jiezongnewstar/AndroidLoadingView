@@ -1,4 +1,4 @@
-package com.jiajie.loadingview;
+package com.jiajie.load;
 
 import android.animation.ArgbEvaluator;
 import android.annotation.TargetApi;

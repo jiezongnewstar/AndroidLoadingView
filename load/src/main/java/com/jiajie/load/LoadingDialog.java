@@ -1,5 +1,4 @@
-package com.jiajie.loadingview;
-
+package com.jiajie.load;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;

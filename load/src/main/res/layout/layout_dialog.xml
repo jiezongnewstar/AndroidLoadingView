@@ -12,7 +12,7 @@
     android:clipToPadding="false">
 
 
-    <com.jiajie.loadingview.LoadingView
+    <com.jiajie.load.LoadingView
         android:id="@+id/loadView"
         android:layout_gravity="center"
         android:layout_width="wrap_content"

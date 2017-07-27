@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LoadingView.iml" filepath="$PROJECT_DIR$/LoadingView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidLoadingView.iml" filepath="$PROJECT_DIR$/AndroidLoadingView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/load/load.iml" filepath="$PROJECT_DIR$/load/load.iml" />
     </modules>
   </component>
 </project>

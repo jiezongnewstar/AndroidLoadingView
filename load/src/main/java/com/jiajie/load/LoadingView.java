@@ -1,4 +1,4 @@
-package com.jiajie.loadingview;
+package com.jiajie.load;
 
 import android.annotation.TargetApi;
 import android.content.Context;
