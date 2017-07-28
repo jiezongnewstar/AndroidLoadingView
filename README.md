@@ -11,4 +11,6 @@ maven ：
 </dependency>
 
 
-使用，参考MainActiviety
+简单的使用 
+
+new LoadingDialog.Buidler(context).loadtext("needed String").build().show()
