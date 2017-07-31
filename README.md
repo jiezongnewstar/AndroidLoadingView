@@ -2,7 +2,7 @@ Android 网络加载以及耗时操作的指示器动画。
 
 ![image](https://github.com/jiezongnewstar/AndroidLoadingView/blob/master/load/src/main/res/drawable/loading.gif)
 
-gradle 添加依赖 compile 'cn.jiajie.loading:load:1.0'
+gradle 添加依赖 compile 'cn.jiajie.loading:load:1.0.1'
 
 maven ：
 <dependency> 
